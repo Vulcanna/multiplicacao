@@ -1,2 +1,2 @@
 # multiplicacao
-Conta de multiplicação de números
+Conta de multiplicação de números em C
